@@ -1,0 +1,8 @@
+<Alloy>
+		<View id='gearScreen'>
+			<View id="topBarView">
+				<ImageView id="settingImg"/>
+				<Label id="gearLabel"/>
+			</View>
+	</View>
+</Alloy>

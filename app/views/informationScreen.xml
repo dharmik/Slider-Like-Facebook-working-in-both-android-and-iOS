@@ -1,0 +1,8 @@
+<Alloy>
+	<View id='informationScreen'>
+			<View id="topBarView">
+				<ImageView id="settingImg"/>
+				<Label id="informationLabel"/>
+			</View>
+	</View>
+</Alloy>

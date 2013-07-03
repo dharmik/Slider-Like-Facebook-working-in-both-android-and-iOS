@@ -1,0 +1,8 @@
+<Alloy>
+	<View id='postScreen'>
+			<View id="topBarView">
+				<ImageView id="settingImg"/>
+				<Label id="postLabel"/>
+			</View>
+	</View>
+</Alloy>

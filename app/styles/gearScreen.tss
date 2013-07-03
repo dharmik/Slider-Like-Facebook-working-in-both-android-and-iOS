@@ -1,0 +1,25 @@
+"#gearScreen": {
+	backgroundColor: "yellow",
+	height : '100%',
+	width : '100%'
+},
+"#topBarView": {
+	top: '0%',
+	width: '100%',
+	backgroundColor: '#b5b5b5',
+	height: '9%'
+},
+"#settingImg" : {
+	left: '2%',
+	width: '13%',
+	height: '70%',
+	image: '/menuSetting.png'
+},
+"#gearLabel" : {
+	color: "black",
+	text: "Yellow Screen",
+	font : {
+	    fontWeight : 'bold',
+	    fontSize : '18dp'
+	}
+}

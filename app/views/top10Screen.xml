@@ -1,0 +1,9 @@
+<Alloy>
+		<View id='top10Screen'>
+			<View id="topBarView">
+				<ImageView id="settingImg"/>
+				<Label id="top10Label"/>
+			</View>
+	</View>
+
+</Alloy>
